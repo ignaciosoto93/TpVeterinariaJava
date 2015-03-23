@@ -32,7 +32,7 @@ public class Veterinaria {
 		//Genero los animales
 		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
 		this.inscribirAnimal("mish", "gato", "Siames", 5, "fiebre");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
+		this.inscribirAnimal("pepito","perrito","labrador golden",3,"Descompostura");
 		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
 		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
 		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
