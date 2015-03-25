@@ -30,36 +30,7 @@ public class Veterinaria {
 	public void main(String[] args) {
 		
 		//Genero los animales
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("mish", "gato", "Siames", 5, "fiebre");
-		this.inscribirAnimal("pepito","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
-		this.inscribirAnimal("pepe","perro","labrador",3,"Descompostura");
 		
-		
-		//Genero los medicos
-		this.inscribirMedico("Jorge");	
-		this.inscribirMedico("Jorge");
-		this.inscribirMedico("Jorge");
-		this.inscribirMedico("Jorge");
-		this.inscribirMedico("Jorge");
-		this.inscribirMedico("Laura");
 		
 		//Atiendo animales
 		
